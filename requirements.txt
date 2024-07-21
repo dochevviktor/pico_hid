@@ -1,0 +1,3 @@
+circuitpython-stubs~=9.0.5
+adafruit-circuitpython-hid~=6.1.1
+pyserial~=3.5
